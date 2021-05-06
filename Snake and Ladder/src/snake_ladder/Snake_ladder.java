@@ -34,9 +34,8 @@ public class Snake_ladder {
 						}
 				
 					} else {
-						//System.out.println("No Play");
-						//System.out.println(initial);
-				    }
+						
+					}
 			}
 		}
 }
